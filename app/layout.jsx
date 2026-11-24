@@ -1,0 +1,1 @@
+import './style.css'; export const metadata={title:'ALLÜRA Originals',description:'Histórias que ficam contigo.'}; export default function Layout({children}){return <html lang="pt-PT"><body>{children}</body></html>}
